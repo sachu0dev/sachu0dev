@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachu0dev" target="blank"><img src="https://img.shields.io/twitter/follow/sachu0dev?logo=twitter&style=for-the-badge" alt="sachu0dev" /></a> </p>
 
-- 🔭 I’m currently working on [a E-commerce Website]target="_blank"(https://pc-parts-in.netlify.app/)
+- 🔭 I’m currently working on [a E-commerce Website](https://pc-parts-in.netlify.app/){:target="_blank"}
 
 - 🌱 I’m currently learning **React**
 
