@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachu0dev" target="blank"><img src="https://img.shields.io/twitter/follow/sachu0dev?logo=twitter&style=for-the-badge" alt="sachu0dev" /></a> </p>
 
-- 🔭 Just finished developmeny of <a href="https://pc-parts-in.netlify.app/" target="_blank">TypingPanda-typing practice webapp</a>
+- 🔭 Just finished developmeny of <a href="https://typingpanda.netlify.app/" target="_blank">TypingPanda Webapp</a>
 
 
 - 🌱 I’m currently learning **React**
