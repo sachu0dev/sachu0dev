@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachu0dev" target="blank"><img src="https://img.shields.io/twitter/follow/sachu0dev?logo=twitter&style=for-the-badge" alt="sachu0dev" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://pc-parts-in.netlify.app/" target="_blank">a E-commerce Website</a>
+- 🔭 Just finished developmeny of <a href="https://pc-parts-in.netlify.app/" target="_blank">TypingPanda-typing practice webapp</a>
 
 
 - 🌱 I’m currently learning **React**
