@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sushil! (https://devbysushil.com)</h1>
+<h1 align="center">Hi there, I'm Sushil! - [<a href="https://devbysushil.com">Portfolio</a>]</h1>
 
 ## My Stack
 <p align="center">
