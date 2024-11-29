@@ -21,4 +21,4 @@
 
 [Kabutar](https://kabutar.devbysushil.com/login) - Kabutar A Seamless Chat App for Real-Time Conversations
 
-[UnoPack](https://typingpanda.netlify.app/) - TypingPanda A Fun and Interactive Typing Practice Platform
+[TypingPanda](https://typingpanda.netlify.app/) - TypingPanda A Fun and Interactive Typing Practice Platform
