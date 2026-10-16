@@ -1,43 +1,48 @@
-<h1 align="center">Hi there, I'm Sushil! - [<a href="https://devbysushil.com">Portfolio</a>]</h1>
+<a href="https://www.sushilk.tech">
+  <img src="./assets/hero.svg" width="100%" alt="Sushil Kumar, fullstack developer. Builds it, ships it, keeps it running. Now: Namestead is live.">
+</a>
 
-## 🚀 Currently Building
-### [Devure](https://www.devure.in)
-> Devure is my all-in-one developer playground, blog engine, and publishing platform.  
-> I'm building it to help developers share their journey, ideas, and code in style — fast, SEO-friendly, and developer-first!
+<a href="https://namestead.dev">
+  <img src="./assets/namestead.svg" width="100%" alt="Namestead is live: free subdomains for developers at namestead.dev. Five ranks, Ping to Root. Money pays the rent, it never buys rank.">
+</a>
 
-🔗 Read the story behind it here:  
-[**Building Devure in My Developer Playground, Portfolio & Publishing Platform**](https://www.devure.in/blog/building-devure-in-my-developer-playground-portfolio-and-publishing-platform)
-
----
-
-## 💻 My Stack
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,mongodb,tailwindcss,tauri,redux,redis,docker,aws,cloudflare,vercel" alt="TypeScript, React, Next.js, TailwindCSS, Tauri, AWS, Cloudflare, Vercel">
-  </a>
+  <a href="https://namestead.dev"><b>namestead.dev</b></a> ·
+  <a href="https://www.sushilk.tech/work/namestead">how it's built</a> ·
+  <a href="https://www.sushilk.tech">sushilk.tech</a>
 </p>
 
-## 📊 My Stats
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=sachu0dev&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachu0dev&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
-  </a>
-</p>
+### `$ ls ~/work`
 
-## 🧩 My Projects
+| | what it is | built with |
+| --- | --- | --- |
+| **[Namestead](https://namestead.dev)** | Free subdomains for developers: a real name on a real domain, HTTPS on, no card. Every rupee in and out on a public ledger. | Next.js · Fastify · Postgres · Caddy |
+| **Bless Me** | A marketplace for booking online sessions with spiritual leaders. Building the booking flows at Mind Roots. | Next.js · Node · Postgres |
+| **[Devure JSON](https://json.devure.in)** | A free, local-first JSON workspace: viewer, diff, JSONPath, schema checks and converters. [Case study](https://www.sushilk.tech/work/devure-json) · [code](https://github.com/sachu0dev/json-viewer) | Next.js · TypeScript · Ajv |
+| **[Shorts Studio](https://www.sushilk.tech/work/shorts-studio)** | YouTube links in, publish-ready Shorts out: transcription, clip picking, captions. [Code](https://github.com/sachu0dev/shorts-studio) | TypeScript · Python · WhisperX · ffmpeg |
+| **[Sir Orrick's](https://www.sushilk.tech/work/sir-orricks)** | A scroll-told 3D brand site for an Irish beer and whiskey, with ray-traced glass. | three.js · R3F · GSAP |
+| **[Donabe](https://www.sushilk.tech/work/donabe)** | A scroll-driven 3D brand site for a concept lager. | three.js · R3F · GSAP |
 
-- [**PGConnect**](https://pgconnect.site) — A platform to discover and list PGs with Google Maps, real-time chat via Socket.IO, and secure OAuth.
+<p align="right"><a href="https://www.sushilk.tech/work">all work →</a></p>
 
-- **Atlantic Cars** — A multilingual, SEO-optimized car listing and bidding platform built with SSR support and i18n using Next.js and Shadcn.
+### `$ tail ~/writing`
 
-- **Rebelion** — A fantasy crypto-gaming app with team creation using Bitcoin, gameweeks, leaderboards, and a full-featured admin panel.
+<!-- BLOG-POST-LIST:START -->
+- `2026-10-04` [I can't edit video. I make 3D reels anyway](https://www.sushilk.tech/writing/i-cant-edit-video-i-make-3d-reels-anyway)
+- `2026-10-04` [How Shopify stopped selling the last hoodie twice](https://www.sushilk.tech/writing/shopify-redis-to-mysql)
+<!-- BLOG-POST-LIST:END -->
 
-- [**Nameless**](https://nameless.devbysushil.com) — A Nameless Platform for Receiving and Showcasing Anonymous Feedback.
+### `$ cat stack.txt`
 
-- [**Kabutar**](https://kabutar.devbysushil.com/login) — Kabutar: A Seamless Chat App for Real-Time Conversations using WebSocket and Cloudinary.
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,fastify,postgres,prisma,redis,docker,linux,githubactions,aws,threejs,tailwind,python&perline=15" alt="TypeScript, React, Next.js, Node.js, Fastify, PostgreSQL, Prisma, Redis, Docker, Linux, GitHub Actions, AWS, three.js, Tailwind, Python">
 
-- [**TypingPanda**](https://typingpanda.netlify.app/) — A Fun and Interactive Typing Practice Platform to boost your keyboard speed like a coding ninja.
+### `$ git log --graph`
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachu0dev/sachu0dev/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sachu0dev/sachu0dev/output/snake-light.svg" width="100%" alt="Contribution graph, eaten by a snake">
+</picture>
 
+### `$ ping sushil`
+
+[sushilk.tech](https://www.sushilk.tech) · [contact@sushilk.tech](mailto:contact@sushilk.tech) · [LinkedIn](https://www.linkedin.com/in/sachu0dev) · [X](https://x.com/sachu0dev) · [Instagram](https://www.instagram.com/sushilk.dev)
