@@ -18,7 +18,7 @@ jobs:
         with:
           feed_list: "https://www.sushilk.tech/feed.xml"
           max_post_count: 3
-          template: "- `$date` [$title]($url)$newline"
+          template: "$newline- `$date` [$title]($url)"
           date_format: "UTC:yyyy-mm-dd"
           commit_message: "docs: update the writing list"
           committer_username: "Sushil Kumar"
