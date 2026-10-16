@@ -27,9 +27,9 @@
 
 ### `$ tail ~/writing`
 
-<!-- BLOG-POST-LIST:START -->- `2026-10-04` [I can&#39;t edit video. I make 3D reels anyway](https://www.sushilk.tech/writing/i-cant-edit-video-i-make-3d-reels-anyway)
-- `2026-10-04` [How Shopify stopped selling the last hoodie twice](https://www.sushilk.tech/writing/shopify-redis-to-mysql)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- `2026-10-04` [I can&#39;t edit video. I make 3D reels anyway](https://www.sushilk.tech/writing/i-cant-edit-video-i-make-3d-reels-anyway)
+- `2026-10-04` [How Shopify stopped selling the last hoodie twice](https://www.sushilk.tech/writing/shopify-redis-to-mysql)<!-- BLOG-POST-LIST:END -->
 
 ### `$ cat stack.txt`
 
