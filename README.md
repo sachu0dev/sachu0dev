@@ -44,4 +44,4 @@
 
 ### `$ ping sushil`
 
-[sushilk.tech](https://www.sushilk.tech) · [contact@sushilk.tech](mailto:contact@sushilk.tech) · [LinkedIn](https://www.linkedin.com/in/sachu0dev) · [X](https://x.com/sachu0dev) · [Instagram](https://www.instagram.com/sushilk.dev)
+[sushilk.tech](https://www.sushilk.tech) · [contact@sushilk.tech](mailto:contact@sushilk.tech) · [LinkedIn](https://www.linkedin.com/in/sachu0dev) · [X](https://x.com/sushilkdev) · [Instagram](https://www.instagram.com/sushilk.dev)
